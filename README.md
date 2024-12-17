@@ -1,4 +1,4 @@
-Hi! Im the_cookiemonster and I am the main programmer behind BTF 🎮
+Hi! I'm the_cookiemonster and I am the main programmer behind BTF 🎮
 
 Subscribe to my Youtube channel - https://www.youtube.com/channel/UCJoo3GtdI6h_vFwB-6ij70g
 
