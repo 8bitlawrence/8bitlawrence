@@ -1,5 +1,7 @@
 Hi! I'm the_cookiemonster and I am the main programmer behind BTF 🎮
 
+BTF Season 3 IS OUT - https://btf-shop.netlify.app/
+
 Subscribe to my Youtube channel - https://www.youtube.com/channel/UCJoo3GtdI6h_vFwB-6ij70g
 
 Join my Pixilart community to create fan art and pixel items/characters that could be featured in the game! - https://www.pixilart.com/btf-official-466686520c
