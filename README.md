@@ -1,7 +1,7 @@
-Hi! I'm the Cookiemonster and I am the main programmer behind BTF 
+Hi! I'm the Cookiemonster and I am the main dev behind BTF 
 
-BTF Season 4 IS OUT - https://btf-shop.netlify.app/
-BTF Season 5 COMING SOON     ^^^
+BTF Vibe Edition IS OUT - https://btf-vibe.netlify.app/
+
 
 Subscribe to my Youtube channel - https://www.youtube.com/channel/UCJoo3GtdI6h_vFwB-6ij70g
 
