@@ -1,12 +1,44 @@
-Hi! I'm the Cookiemonster and I am the main dev behind BTF 
+***
+**👋 Hi, I’m Cookiemonster**
 
-BTF Vibe Edition IS OUT - https://btf-vibe.netlify.app/
+***Indie Game Dev · Head Developer of Eightbit Games***
 
+I’m an independent game developer who mainly works with Unity. I have been a lead developer at [Eightbit Games](https://eightbit-games.netlify.app/) for 3 years.
 
-Subscribe to my Youtube channel - https://www.youtube.com/channel/UCJoo3GtdI6h_vFwB-6ij70g
+🎮 **Projects**
 
-Join my Pixilart community to create fan art and pixel items/characters that could be featured in the game! - https://www.pixilart.com/btf-official-466686520c
-<!---
-8bitlawrence/8bitlawrence is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+* BTF 2 _[In Development]_— 3D Unity-based successor focused on stronger foundations and maintainability
+
+* [BTF Vibe Edition](https://btf-vibe.netlify.app/public/index.html) — experimental gameplay and balance-driven iteration
+
+* [BTF OG Edition](https://btf-online.netlify.app/) — original release of BTF that established the core mechanics and vision
+
+***
+🛠️ **What I Work With** <br>
+I mainly use Unity C#, although I have experience in most languages in the C family.
+
+  **Game Dev**: Unity, C#
+
+  **Languages**: C++, JavaScript, Python
+
+  **Web**: HTML, CSS
+
+***
+⚙️ **Experience & Focus**
+
+* Multiplayer systems & server-side experimentation
+
+* Anti-cheat considerations and exploit mitigation
+
+* UI systems and in-game tooling
+
+* Refactoring projects when tech stacks stop scaling
+
+* Prototyping, testing, and iterating based on real limitations
+
+I am currently focused on BTF 2, prioritizing stability, structure, and polish over rushed releases.
+
+***
+✉️ **Contact and Collaboration** <br>
+Email: lawrencetong1030@gmail.com <br>
+Discord: btf_cookies
